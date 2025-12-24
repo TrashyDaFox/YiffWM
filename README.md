@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png">
+  <img src="yiffwm.png">
   <br>
   <b>What the fuck?</b> <br>
   <br><br>
